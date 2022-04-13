@@ -1,3 +1,4 @@
+/*
 package com.github.hcsp.polymorphism;
 
 import java.util.Arrays;
@@ -25,3 +26,4 @@ public class UserTest {
                         .collect(Collectors.toList()));
     }
 }
+*/
